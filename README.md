@@ -55,7 +55,8 @@
 
 ---
 ## Веса модели 
-Веса можете загрузить по ссылке [best_weights.pth](https://drive.google.com/file/d/1CTy4pj0JQTCuuzCJuI_IUGdtxZWjwI9k/view?usp=sharing)
+Ссылка для скачивания:
+[best_weights.pth (Google Drive)](https://drive.google.com/file/d/1CTy4pj0JQTCuuzCJuI_IUGdtxZWjwI9k/view?usp=sharing)
 
 ## Установка
 
