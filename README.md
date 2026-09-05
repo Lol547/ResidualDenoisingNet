@@ -208,4 +208,4 @@ unet-denoiser/
 
 ## Контакты
 
-По вопросам  или найденным ошибкам пишите: TG: @qqkiru
+По вопросам  или найденным ошибкам пишите: sokolovkirill489@gmail.com TG: @qqkiru
