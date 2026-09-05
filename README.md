@@ -62,15 +62,14 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/unet-denoiser.git
-cd unet-denoiser
+git clone https://github.com/Lol547/ResidualDenoisingNet.git
+cd ResidualDenoisingNet
 ```
 
 2. Установите зависимости:
 ```bash
 pip install -r requirements.txt
 ```
-> **Примечание**: PyTorch рекомендуется устанавливать отдельно с [официального сайта](https://pytorch.org/) в зависимости от вашей версии CUDA.
 > 
 **Требования**:
 - Python 3.8+
